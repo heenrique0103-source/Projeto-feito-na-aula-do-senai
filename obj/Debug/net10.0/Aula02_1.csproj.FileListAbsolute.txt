@@ -1,0 +1,14 @@
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\bin\Debug\net10.0\Aula02_1.exe
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\bin\Debug\net10.0\Aula02_1.deps.json
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\bin\Debug\net10.0\Aula02_1.runtimeconfig.json
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\bin\Debug\net10.0\Aula02_1.dll
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\bin\Debug\net10.0\Aula02_1.pdb
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\Aula02_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\Aula02_1.AssemblyInfoInputs.cache
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\Aula02_1.AssemblyInfo.cs
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\Aula02_1.csproj.CoreCompileInputs.cache
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\Aula02_1.dll
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\refint\Aula02_1.dll
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\Aula02_1.pdb
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\Aula02_1.genruntimeconfig.cache
+C:\Users\FC063.A.01\Documents\ProjetoBack\Aula02_1\obj\Debug\net10.0\ref\Aula02_1.dll
