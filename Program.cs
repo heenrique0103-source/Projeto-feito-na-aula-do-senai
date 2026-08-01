@@ -35,6 +35,7 @@ namespace Aula02_1
                 default:
                     Console.WriteLine("A letra digitada não é uma vogal.");
                     break;
+                    // Mais uma linha de código
             }
         }
     }
